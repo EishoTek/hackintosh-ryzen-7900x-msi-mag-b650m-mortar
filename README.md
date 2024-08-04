@@ -19,6 +19,7 @@ All files will be found [here](EFI).
 - Asrock Challenger Pro RX 6800 3x DisplayPort and 1x HDMI output
 - GPU Acceleration and DRM
 - CPU Power Management
+- Sleep
 - 2.5G onboard LAN
 - Sleep/wake
 - USB 3.0/3.1/3.2
