@@ -37,7 +37,7 @@ All files will be found [here](EFI).
 - Front Panel/Motherboard Audio
 
 
-## The Build Itself
+## The build 
 
 OpenCore Version: 1.0.0
 
