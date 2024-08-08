@@ -26,6 +26,8 @@ All files will be found [here](EFI).
 - Both NVMe slots
 - Brightness control using [MonitorControl](https://github.com/MonitorControl/MonitorControl/releases)
 - FocusRite Scarlett Solo USB Interface
+- Waves 13 and Logic Pro using [AMDFriend](https://github.com/NyaomiDEV/AMDFriend) and `sudo amdfriend --in-place --sign --directories /Library/Application\ Support/Waves
+`
 
 ### Not working
 - Wi-Fi/Bluetooth (in the future, we can replace MSI's RZ616 with a [BCM94350ZAE](https://www.aliexpress.com/i/32800008617.html))
