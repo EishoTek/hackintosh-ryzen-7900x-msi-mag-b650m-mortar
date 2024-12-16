@@ -56,7 +56,8 @@ SMBIOS: MacPro7,1
 | RAM         | G.SKill Trident Z5 Neo RGB 32GB (2 x 16GB) DDR5 6000MHz CL30          |
 | NVMe 1      | SK Hynix BC511 256GB [macOS Drive]                                    |
 | NVMe 2      | Crucial P3 Plus 2TB [Windows Drive]                                   |
-| Wi-Fi/BT    | RZ616 [Non-functional in macOS]                                       |
+| Wi-Fi/BT    | RZ616 [Disabled in BIOS]                                              |
+| Wi-Fi/BT    | PCIe to Qualcomm BCM943602CDP adaptor                                 |
 | Network     | Realtek® RTL8125B 2.5Gbps LAN                                         |
 | Audio       | Realtek ALC4080   [Untested, I use USB Audio]                         |
 
